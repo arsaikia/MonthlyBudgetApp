@@ -9,4 +9,4 @@
 
 ### Application basic Architecture:
 
-!(app_architecture.png)
+![](app_architecture.png)
